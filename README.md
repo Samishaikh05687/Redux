@@ -1,4 +1,5 @@
 EcoTrack 🌱
+
 EcoTrack is a carbon footprint tracking application designed to help individuals monitor and reduce their environmental impact. With features like a carbon calculator, personalized recommendations, gamification, and community challenges, EcoTrack makes sustainability engaging and actionable.
 
 
